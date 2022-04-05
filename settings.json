@@ -4,7 +4,7 @@
 "pass_OneVizion" : "password",
 "import_name" : "import name",
 
-"login_mail":"login",
-"pass_mail":"password",
-"subject_mail":"subject"
+"login_mail":"OVAWSreport@onevizion.com",
+"pass_mail":"AWSCloudhealthreport123",
+"subject_mail":"FlexReport successfully generated for: Copy of - 2021 Spend by Customer"
 }
